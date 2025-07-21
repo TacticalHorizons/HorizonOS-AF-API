@@ -19,7 +19,9 @@
       "date": "2025-07-20T14:42:00-06:00",
       "provider": "Calfair660",
       "banner": "rbxassetid://1029384756",
-      "rejectIn": []
+      "ReadTime": "2";
+      "rejectIn": [],
+      "featured": true
     },
     {
       "title": "Transit Strike Ends in Lawrence",
@@ -28,7 +30,9 @@
       "date": "2025-07-19T10:30:00-06:00",
       "provider": "Lawrence780",
       "banner": "rbxassetid://5647382910",
-      "rejectIn": []
+      "ReadTime": "2";
+      "rejectIn": [],
+      "featured": false
     }
   ]
 }
