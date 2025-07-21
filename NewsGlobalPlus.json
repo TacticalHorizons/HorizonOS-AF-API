@@ -1,0 +1,34 @@
+{
+  "providers": [
+    {
+      "name": "Calfair660",
+      "icon": "rbxassetid://123456789", 
+      "banner": "rbxassetid://987654321"
+    },
+    {
+      "name": "Lawrence780",
+      "icon": "rbxassetid://234567890",
+      "banner": "rbxassetid://876543219"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Cave-in at High Rock Park",
+      "summary": "Three injured after a cave-in at High Rock Park. No fatalities reported.",
+      "fullArticle": "Emergency services responded quickly after a partial collapse at High Rock Park’s trailhead. Three hikers were trapped but rescued with only minor injuries. No fatalities have been reported. Officials are investigating unstable ground in the area.",
+      "date": "2025-07-20T14:42:00-06:00",
+      "provider": "Calfair660",
+      "banner": "rbxassetid://1029384756",
+      "rejectIn": []
+    },
+    {
+      "title": "Transit Strike Ends in Lawrence",
+      "summary": "The week-long transit strike in Lawrence has officially ended.",
+      "fullArticle": "After intense negotiations, the transit authority and the workers’ union have reached a deal to end the strike. Full service will resume Monday morning.",
+      "date": "2025-07-19T10:30:00-06:00",
+      "provider": "Lawrence780",
+      "banner": "rbxassetid://5647382910",
+      "rejectIn": [1739292929]  // Example Game ID where this article is hidden
+    }
+  ]
+}
