@@ -3,12 +3,16 @@
     {
       "name": "Calfair660",
       "icon": "rbxassetid://79668445676594",
-      "banner": "rbxassetid://987654321"
+      "banner": "rbxassetid://987654321",
+      "location": "Calfair, Northfoot, Canada",
+      "oi": "Trusted by Calfairians since 2006."
     },
     {
       "name": "Lawrence780",
       "icon": "rbxassetid://79668445676594",
-      "banner": "rbxassetid://876543219"
+      "banner": "rbxassetid://876543219",
+      "location": "Lawrence, Fremont, United States",
+      "oi": "Everything Fremont.",
     }
   ],
   "articles": [
