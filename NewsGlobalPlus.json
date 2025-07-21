@@ -28,7 +28,7 @@
       "date": "2025-07-19T10:30:00-06:00",
       "provider": "Lawrence780",
       "banner": "rbxassetid://5647382910",
-      "rejectIn": [1739292929]  // Example Game ID where this article is hidden
+      "rejectIn": []
     }
   ]
 }
