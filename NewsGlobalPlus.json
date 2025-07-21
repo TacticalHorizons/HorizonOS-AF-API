@@ -2,7 +2,7 @@
   "providers": [
     {
       "name": "Calfair660",
-      "icon": "rbxassetid://123456789", 
+      "icon": "rbxassetid://123456789",
       "banner": "rbxassetid://987654321"
     },
     {
@@ -13,13 +13,24 @@
   ],
   "articles": [
     {
+      "title": "\"Speed kills,\" says Fremont State governor. $20 million campaign to reduce road deaths in full swing.",
+      "summary": "A $20 million campaign has launched across Fremont State to curb road fatalities, with Governor Ellis Renwick leading the charge.",
+      "fullArticle": "Fremont State Governor Ellis Renwick announced a $20 million public safety campaign focused on reducing road deaths throughout the state. The campaign includes increased patrols, public education programs, and infrastructure improvements targeting known high-risk areas. Officials emphasize that speeding remains a leading cause of fatal accidents, urging drivers to exercise caution. The initiative will run throughout 2024, with periodic progress updates from the Governor's office.",
+      "date": "2024-05-09T08:00:00-06:00",
+      "provider": "Lawrence780",
+      "banner": "rbxassetid://3344556677",
+      "ReadTime": "6",
+      "rejectIn": [],
+      "featured": false
+    },
+    {
       "title": "Cave-in at High Rock Park",
       "summary": "Three injured after a cave-in at High Rock Park. No fatalities reported.",
-      "fullArticle": "Emergency services responded quickly after a partial collapse at High Rock Park’s trailhead. Three hikers were trapped but rescued with only minor injuries. No fatalities have been reported. Officials are investigating unstable ground in the area.",
+      "fullArticle": "Three hikers were injured in a sudden rockslide at High Rock Park, located in Calfair, Northfoot Province. Rescue crews responded quickly to Overhang Trail, stabilizing all victims and transporting them to St. Bridget’s Medical Center. Officials from Calfair Fire Department have initiated an investigation, and parts of the park have been closed for geological assessment. Calfair Domination Bank and Fairmont Trust Bank have pledged over $150,000 CAD for safety infrastructure and signage improvements. No fatalities were reported.",
       "date": "2025-07-20T14:42:00-06:00",
       "provider": "Calfair660",
       "banner": "rbxassetid://1029384756",
-      "ReadTime": "2",
+      "ReadTime": "6",
       "rejectIn": [],
       "featured": true
     },
@@ -30,6 +41,28 @@
       "date": "2025-07-19T10:30:00-06:00",
       "provider": "Lawrence780",
       "banner": "rbxassetid://5647382910",
+      "ReadTime": "2",
+      "rejectIn": [],
+      "featured": false
+    },
+    {
+      "title": "Banks Race to Fund Trail Safety",
+      "summary": "Calfair Domination Bank and Fairmont Trust Bank pledge $150K+ for park upgrades.",
+      "fullArticle": "Following the High Rock Park rockslide, Calfair Domination Bank announced a $75K CAD donation toward new safety systems in Northfoot Province’s parks. Fairmont Trust Bank — based in Fairmont State, U.S. — joined the effort in a rare cross-border gesture, matching the contribution. Together, the banks will fund solar-powered alert poles, beacon stations, and a new safety app called PathGuard. The initiative is expected to roll out by late August.",
+      "date": "2025-07-21T09:00:00-06:00",
+      "provider": "Calfair660",
+      "banner": "rbxassetid://6655443322",
+      "ReadTime": "3",
+      "rejectIn": [],
+      "featured": false
+    },
+    {
+      "title": "Horizon Nebula 4 Specs Leaked",
+      "summary": "New leaks reveal camera upgrades and AI tech in the upcoming flagship phone.",
+      "fullArticle": "Leaked specs for the Horizon Nebula 4 reveal a 50MP camera with periscope zoom, a new NeuroAI Core chip, and the return of PulseSync for wireless sync and data backup. The phone is expected to be unveiled at the Northfoot Digital Future Conference on August 11th. Pixeled Horizons has not issued an official comment.",
+      "date": "2025-07-19T19:10:00-06:00",
+      "provider": "Lawrence780",
+      "banner": "rbxassetid://9988776655",
       "ReadTime": "2",
       "rejectIn": [],
       "featured": false
